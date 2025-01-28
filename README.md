@@ -23,23 +23,23 @@ To use this tool, you need to have Python 3.x installed on your system.
 
     ```bash
         git clone https://github.com/your-username/website-downloader.git
-            cd website-downloader
-                ```
+        cd website-downloader
+    ```
 
-                2. Install the required dependencies:
+2. Install the required dependencies:
 
-                    ```bash
-                        pip install -r requirements.txt
-                            ```
+    ```bash
+        pip install -r requirements.txt
+    ```
 
-                                This will install the following dependencies:
-                                    - `requests`: To handle HTTP requests and download website content.
-                                        - `beautifulsoup4`: To parse HTML and extract links for CSS, JS, and images.
-                                            - `tqdm`: For the download progress bar.
-                                                - `pyfiglet`: To generate ASCII art headers.
-                                                    - `colorama`: For colorful CLI output.
+This will install the following dependencies:
+    - `requests`: To handle HTTP requests and download website content.
+    - `beautifulsoup4`: To parse HTML and extract links for CSS, JS, and images.
+    - `tqdm`: For the download progress bar.
+    - `pyfiglet`: To generate ASCII art headers.
+    - `colorama`: For colorful CLI output.
 
-                                                    3. Ensure you have Python 3.x installed on your machine (>= 3.6).
+3. Ensure you have Python 3.x installed on your machine (>= 3.6).
 
 ## Usage
 
@@ -48,9 +48,9 @@ To use this tool, you need to have Python 3.x installed on your system.
 Once the dependencies are installed, you can run the program using the following command:
 (Run the code in main6/ )
 
-```bash
-python website_downloader.py        #In our case it will be main6.py
-```
+    ```bash
+        python website_downloader.py        #In our case it will be main6.py
+    ```
 
 This will launch the command-line interface with the following options:
 
