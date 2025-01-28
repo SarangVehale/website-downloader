@@ -48,9 +48,9 @@ This will install the following dependencies:
 Once the dependencies are installed, you can run the program using the following command:
 (Run the code in main6/ )
 
-    ```bash
-        python website_downloader.py        #In our case it will be main6.py
-    ```
+```bash
+    python website_downloader.py        #In our case it will be main6.py
+```
 
 This will launch the command-line interface with the following options:
 
