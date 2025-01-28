@@ -1,7 +1,3 @@
-ertainly! Below is a sample `README.md` for your project, which describes the functionality and how to use it.
-
----
-
 # Website Downloader
 
 A Python script to download websites and save them in a ZIP file. The script supports downloading HTML, CSS, JS, and image resources, and it organizes them into folders. Each downloaded website is saved in a unique folder and ZIP file, ensuring that there is no conflict between different websites.
